@@ -1,0 +1,22 @@
+The file I have submitted is dataStreamFinal.ipynb.
+It is a jupyter notebook file that contains the code for the project.
+
+For the project, I have used the following libraries:
+- numpy
+- sklearn
+- dash
+- plotly
+
+These libraries can be installed using the following command:
+```bash
+pip install numpy scikit-learn dash plotly
+```
+Install these in your local environment before running the code.
+
+The code is written in Python 3.11.
+
+If the code does not run :
+1. Try restarting the kernel.
+2. Make sure you have installed the required libraries.
+3. In the last step, when you run the app, try changing the port number if the default port is already in use.
+4. If all the above steps are checked, restart and try running all the blocks using Run All command.
